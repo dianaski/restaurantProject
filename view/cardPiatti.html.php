@@ -1,4 +1,4 @@
-style>
+<style>
     .card{
         position: absolute;
         background: transparent;
